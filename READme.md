@@ -1,4 +1,4 @@
-## Title:Drum Machinr
+## Title:Drum Machine
 
 ## Description:
     The purpose of this page is was to complete a PCC Challenge within module Three. Demonstrating the following knowedgle of the following lanuages: Bootstap, jQuery, JavaScript, Css & HTML. 
