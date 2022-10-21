@@ -1,0 +1,22 @@
+body {
+    // background-color: #669999;
+    /* text-align: center; */
+ background-image: url("../image/whitediamond.png");  
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    font-family:"Dancing Script";
+    src:local('Dancing Script'),url('./DancingScript-VariableFont_wght.ttf');
+    font-size: 3em;
+    height: 100vh;
+    margin-top: 25%;
+}
+.btn-outline-primary{
+    border-color: darkslategray;
+    color: #ffe6cc;
+    background-color: #663300;
+    border-radius: 50px;
+    font-size: 1em;
+    padding: 20px;
+    width: 100px;
+    height: 150px;
+}
